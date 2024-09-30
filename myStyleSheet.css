@@ -1,0 +1,8 @@
+h1 {text-align: center;
+    background-color:pink;
+    color: brown;} 
+td { text-align: center;
+     border: solid 1px black;
+     color: rgb(189, 33, 200);
+     font-family: monospace;
+}
